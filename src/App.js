@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Reactsdasdasd
+          Learn Reactsdasdasda  hung
         </a>
       </header>
     </div>

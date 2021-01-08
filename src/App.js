@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Reactsdasdasda hung hehehehe
+          Learn Reactsdasdasda hung hehehehe kakka
         </a>
       </header>
     </div>
